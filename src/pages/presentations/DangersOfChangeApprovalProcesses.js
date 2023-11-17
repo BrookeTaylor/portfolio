@@ -11,7 +11,7 @@ import approvalProcesses from './../../devops-presentations/dangersOfChangeAppro
 
 function DangersOfChangeApprovalProcesses() {
   return (
-    <div className="DangersOfChangeApprovalProcesses text-center">
+    <div className="devops text-center">
       
       <video controls>
         <source src={approvalProcesses} type="video/mp4" />

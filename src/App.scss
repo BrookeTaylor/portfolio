@@ -85,6 +85,10 @@ $gold: #b7a63a; // USED ON BRANDING
     color: $darkPurple;
   }
 
+  p a:link {
+    color: $darkPurple;
+  }
+
   .grid-container a:visited {
     color: $darkPurple;
   }
@@ -123,7 +127,16 @@ $gold: #b7a63a; // USED ON BRANDING
   p a:visited {
     color: $darkPurple;
   }
+
+  p a:link {
+    color: $darkPurple;
+  }
+
   .grid-container a:visited {
+    color: $darkPurple;
+  }
+
+  .grid-container a:link {
     color: $darkPurple;
   }
 

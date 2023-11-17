@@ -10,7 +10,7 @@ import techVBiz from './../../devops-presentations/brooks-technologyVsBusiness.m
 
 function TechnologyVsBusiness() {
   return (
-    <div className="TechnologyVsBusiness text-center">
+    <div className="devops text-center">
       
       <video controls>
         <source src={techVBiz} type="video/mp4" />

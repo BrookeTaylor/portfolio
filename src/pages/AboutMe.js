@@ -86,7 +86,7 @@ function AboutMe() {
       id: 4,
       title: 'Nosegrind',
       image: sk8_2,
-      description: 'Playing with my team, The Blind Zebras'
+      description: 'Taken almost a lifetime ago, Nosegrind at the park'
     },
     {
       id: 5,

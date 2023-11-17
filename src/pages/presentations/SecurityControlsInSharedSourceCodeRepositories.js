@@ -10,8 +10,7 @@ import security from './../../devops-presentations/securityControlsInSharedSourc
 
 function SecurityControlsInSharedSourcesCodeRepositories() {
   return (
-    <div className="function SecurityControlsInSharedSourcesCodeRepositories() {
-      text-center">
+    <div className="devops text-center">
       
       <video controls>
         <source src={security} type="video/mp4" />

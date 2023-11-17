@@ -11,7 +11,7 @@ import pagerRotation from './../../devops-presentations/pagerRotationDuties.mp4'
 
 function PagerRotationDuties() {
   return (
-    <div className="PagerRotationDuties text-center">
+    <div className="devops text-center">
       
       <video controls>
         <source src={pagerRotation} type="video/mp4" />

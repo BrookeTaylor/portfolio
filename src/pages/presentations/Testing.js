@@ -11,7 +11,7 @@ import test from './../../devops-presentations/testing.mp4';
 function Testing() {
   return (
 
-    <div className="Testing text-center">
+    <div className="devops text-center">
       
     <video controls>
       <source src={test} type="video/mp4" />

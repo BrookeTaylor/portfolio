@@ -10,7 +10,7 @@ import changeManagement from './../../devops-presentations/changeManagement.mp4'
 
 function ChangeManagement() {
   return (
-    <div className="ChangeManagement text-center">
+    <div className="devops text-center">
       
       <video controls>
         <source src={changeManagement} type="video/mp4" />

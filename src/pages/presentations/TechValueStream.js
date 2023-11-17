@@ -11,7 +11,7 @@ import TechValue from './../../devops-presentations/tech-value.mp4';
 
 function TechValueStream() {
   return (
-    <div className="TechValueStream text-center">
+    <div className="devops text-center">
       
       <video controls>
         <source src={TechValue} type="video/mp4" />

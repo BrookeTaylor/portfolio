@@ -11,7 +11,7 @@ import integration from './../../devops-presentations/brooks-continuousIntegrati
 
 function ContinuousIntegration() {
   return (
-    <div className="ContinuousIntegration text-center">
+    <div className="devops text-center">
       
       <video controls>
         <source src={integration} type="video/mp4" />

@@ -12,7 +12,7 @@ import twoPizza from './../../devops-presentations/two-pizza-rule.mp4';
 
 function TwoPizzaRule() {
   return (
-    <div className="TwoPizzaRule text-center">
+    <div className="devops text-center">
       
       <video controls>
         <source src={twoPizza} type="video/mp4" />
