@@ -72,15 +72,15 @@ function AboutMe() {
     },
     {
       id: 2,
-      title: 'The Blind Zebra',
+      title: 'The Blind Zebras',
       image: bz,
       description: 'Playing with my team, The Blind Zebras'
     },
     {
       id: 3,
-      title: 'Feeble',
+      title: 'Smith grind',
       image: sk8_1,
-      description: 'Taken almost a lifetime ago, Feeble grind at the park.'
+      description: 'Taken almost a lifetime ago, Smith grind at the park.'
     },
     {
       id: 4,
