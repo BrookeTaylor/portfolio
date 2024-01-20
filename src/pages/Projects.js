@@ -51,7 +51,7 @@ function Projects() {
       id: 2,
       title: "Nodebucket",
       image: nodebucket,
-      link: 'https://group-2-bcrs.onrender.com',
+      link: 'https://brooks-nodebucket.onrender.com/',
       description: "Employee Ids: 1007, 1008, 1009, 1010, 1011, 1012",
       comments: `
         Title: Nodebucket
