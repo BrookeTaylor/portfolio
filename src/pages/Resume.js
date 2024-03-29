@@ -131,7 +131,7 @@ function Resume() {
 
                 <li>Answer phones & help in store customers with appliance delivery issues</li>
                 <li>Creating alerts and managing a list of orders to watch which have been flagged with detailed notes for other staff/delivery/install teams.</li>
-                <li>Assist customers with complete solutions for kitchen & laundry packagesles</li>
+                <li>Assist customers with complete solutions for kitchen & laundry packages</li>
                 <li>Backup other departments with complex order issues</li>
                 <li>Learning Lounge (Web based learning) Leaderboard #1 for fiscal year</li>
 

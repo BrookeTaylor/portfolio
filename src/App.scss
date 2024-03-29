@@ -19,6 +19,7 @@
 
 /** ***** COLOR SETUP ***** */
 $black: #333; // USED 
+$lighterBlack: #3a3a3a;
 $darkerPurple: #370570; // USED ON NAV BUTTONS :HOVER 
 $darkPurple: #965ED6; // USED ON LINKS (A:VISITED)
 $lightPurple: #673ab7;  // USED ON NAV/FOOTER
@@ -95,7 +96,7 @@ $gold: #b7a63a; // USED ON BRANDING
 
   .card {
     box-shadow: 0 4px 8px 0 $lightPurple;
-    background-color: $black;
+    background-color: $lighterBlack;
     color: $white;
   }
 
@@ -105,7 +106,7 @@ $gold: #b7a63a; // USED ON BRANDING
 
   .resume {
     border: 1px solid $lightPurple;
-    background-color: $black;
+    background-color: $lighterBlack;
     box-shadow: 0 4px 8px 0 $lightPurple;
     text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.1);
   }
